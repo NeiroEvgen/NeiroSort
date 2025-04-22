@@ -1,0 +1,51 @@
+# NeiroSort
+
+**NeiroSort** is an experimental deep learning-based waste classification system that combines multiple neural networks for robust visual recognition and decision making. The project focuses on intelligent sorting of solid waste using object detection and ensemble classification methods.
+
+---
+
+## Features
+
+- Real-time waste detection using YOLO
+- Object classification using MobileNetV2 and ResNet
+- Decision-making via voting ensemble
+- Modular architecture designed for robotics integration
+- Prepared for future integration with NIR-sensor data
+
+---
+
+## Project Structure
+
+- `src/` – core modules: detection, classification, ensemble logic  
+- `models/` – pre-trained weights (to be added or linked)  
+- `notebooks/` – training/evaluation notebooks (optional)  
+- `examples/` – sample input/output images  
+- `README.md` – project overview  
+- `requirements.txt` – dependencies
+
+---
+
+## Inference (in progress)
+
+A basic script for running inference will be added soon.  
+Weights and example scripts are being prepared for release.
+
+---
+
+## Roadmap
+
+- [x] Core ensemble implementation (YOLO + MobileNet + ResNet)  
+- [ ] Add inference pipeline script  
+- [ ] Visualize classification results  
+- [ ] Optional: NIR sensor support  
+- [ ] Integrate with Webots / ROS2 (experimental)
+
+---
+
+## License
+
+This project is released under the MIT License.
+
+---
+
+*Created by Yevgeny Yurlasov (2024)*  
