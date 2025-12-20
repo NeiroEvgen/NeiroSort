@@ -13,13 +13,9 @@
 ## 1. Demo & Simulation
 
 ### Real-time C++ Inference
-**[ВСТАВЬ ССЫЛКУ НА СКРИНШОТ ЗДЕСЬ]**
 *(Detection and classification running at high FPS on CPU using OpenCV DNN module)*
-
 ### Physics-Based Simulation (Synthetic Data)
-**[ВСТАВЬ ССЫЛКУ НА ВИДЕО/ГИФКУ ЗДЕСЬ]**
 *(Custom physics engine modeling ballistic trajectories for rapid dataset generation and "Sim-to-Real" transfer)*
-
 ---
 
 ## 2. Key Features
